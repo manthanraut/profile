@@ -4,7 +4,7 @@
 -->
 # Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px">
 
-My name is Manthan Raut. I am currently an undergraduate student searching for job where I can use my skills and also learn new skills to upgrade my skill set.You can follow me on [![LinkedIn][3.2]] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) or on [https://github.com/manthanraut/](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white).
+My name is Manthan Raut. I am currently an undergraduate student searching for job where I can use my skills and also learn new skills to upgrade my skill set.You can follow me on [![LinkedIn][3.2]] ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) or on [https://github.com/manthanraut/] ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white).
 
 ## &#x270d; Area of Interest
 
