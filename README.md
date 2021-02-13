@@ -2,7 +2,7 @@
 <!--
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 -->
-## &#x1F60E Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px">
+## &#x1F60E; Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px">
 
 My name is Manthan Raut. I am currently an undergraduate student searching for job where I can use my skills and also learn new skills to upgrade my skill set.You can follow me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-raut-130a09185/) &nbsp; OR &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthanraut)
 
